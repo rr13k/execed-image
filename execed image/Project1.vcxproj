@@ -160,14 +160,8 @@
     <ResourceCompile Include="Project1.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="img.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <Image Include="D:\test.jpg" />
     <Image Include="icon1.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="kele2.bin" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

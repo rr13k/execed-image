@@ -54,21 +54,11 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="img.txt">
-      <Filter>资源文件</Filter>
-    </Text>
-  </ItemGroup>
-  <ItemGroup>
     <Image Include="D:\test.jpg">
       <Filter>资源文件</Filter>
     </Image>
     <Image Include="icon1.ico">
       <Filter>资源文件</Filter>
     </Image>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="kele2.bin">
-      <Filter>资源文件</Filter>
-    </None>
   </ItemGroup>
 </Project>
